@@ -1,77 +1,24 @@
-# 🚀 about
+<h1 align="center">Hi 👋, I'm Muhammed Rinshad S R</h1>
+<h3 align="center">Creative Full-Stack Developer</h3>
 
-- 🤔 Carpe Diem
-- 💬 Sot the lot of you.I do what I like~
-- 📫 holic-x@foxmail.com
+- 🌱 I’m currently learning **React JS, Docker**
 
-- 🚀 [一人の境](https://blog.holic-x.com/wv-blog)
+- 💬 Ask me about **HTML, CSS, JS**
 
+- 📫 How to reach me **1rinshad1@gmail.com**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAE1maKdS_U/gxA8mgOv4OcDvvctImjLgg/view?utm_content=DAE1maKdS_U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE1maKdS_U/gxA8mgOv4OcDvvctImjLgg/view?utm_content=DAE1maKdS_U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-# 🛠 Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/daredevilstudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/daredevilstudios" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammedrinshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedrinshad" height="30" width="40" /></a>
+<a href="https://instagram.com/_m_rin__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_m_rin__" height="30" width="40" /></a>
+</p>
 
-> skills
-
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
-
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
-
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
-
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Gitee](https://img.shields.io/badge/-Gitee-red?style=flat-circle&logo=Gitee)
-
-- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
-
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
-
-  
-
-> Language usage
-
-<div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
-</div>
-
-
-> Code analysis
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
-# 💻Recent Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [asciinema-linux终端回放记录工具](https://blog.holic-x.com/wv-blog/post/8f2c237d.html)
-- [CDN加速](https://blog.holic-x.com/wv-blog/post/b9906fe8.html)
-- [Office开发者计划-永久白嫖Office365](https://blog.holic-x.com/wv-blog/post/d33a9143.html)
-- [网站多线部署](https://blog.holic-x.com/wv-blog/post/50b43c4a.html)
-- [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-# 🔭Actions
-
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
-
-# 🌱Social
-
-<div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
-
-![](https://stats.justsong.cn/api/github?username=holic-x)![](https://stats.justsong.cn/api/zhihu?username=holic-x)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br><br><br>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daredevilstudios&show_icons=true&locale=en&layout=compact" alt="daredevilstudios" /></p>
+<br><br><br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daredevilstudios&show_icons=true&locale=en" alt="daredevilstudios" /></p>
