@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS, Docker**
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, C++**
 
 - 📫 How to reach me **1rinshad1@gmail.com**
 
