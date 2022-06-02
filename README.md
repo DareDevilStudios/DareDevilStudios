@@ -22,3 +22,6 @@
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daredevilstudios&show_icons=true&locale=en&layout=compact" alt="daredevilstudios" /></p>
 <br><br><br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daredevilstudios&show_icons=true&locale=en" alt="daredevilstudios" /></p>
+<div align="center">
+	<img src="https://github.com/DareDevilStudios/DareDevilStudios/blob/main/assets/github-contribution-grid-snake.svg" />
+</div>
