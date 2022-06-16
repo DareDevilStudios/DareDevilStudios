@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **1rinshad1@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE1maKdS_U/gxA8mgOv4OcDvvctImjLgg/view?utm_content=DAE1maKdS_U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE1maKdS_U/gxA8mgOv4OcDvvctImjLgg/view?utm_content=DAE1maKdS_U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences (https://bit.ly/3y04AFT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
